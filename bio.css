@@ -1,0 +1,67 @@
+body { 
+  font-family: "Crimson Text", "Times New Roman", serif; 
+  background-color: #F2FFFC;
+  margin: 0;
+} 
+h2 { 
+  font-family: "Open Sans Condensed", "Arial", sans-serif; 
+  font-size: 20px;
+}
+h1 { 
+  text-align: center; 
+  background-color: #851944; 
+  color: #FFF; 
+  padding: 25px;
+  border-bottom: 10px solid black; 
+  font-size: 60px;
+  margin: 0;
+} 
+p { 
+  text-align: justify; 
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 0;
+}
+p a { 
+  color: inherit; 
+}
+blockquote{
+  padding: 16px;
+  border: 10px double #CCC;
+  margin: 0;
+  width: 250px;
+  height: 250px;
+  box-sizing: border-box;
+}
+div{
+  width: 720px;
+  margin: auto;  
+}
+aside{
+  text-align: center;
+  background-color:#3C1D3D;
+} 
+li{
+  display: inline-block;
+  height: 50px;
+}
+.fotos{
+  text-align: center;
+  border: 5px solid red;
+}    
+footer { 
+  text-align: center; 
+  background-color: black; 
+  color: #FFF; 
+  padding: 16px;
+  text-align: justify;
+
+} 
+.leia-mais{
+  padding: 8px;
+  margin: 16px;
+  display: block;
+  font-size: 24px;
+  text-align: center;
+  background-color: #E6E7E8;
+}
